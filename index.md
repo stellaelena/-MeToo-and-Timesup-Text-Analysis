@@ -15,6 +15,8 @@ Syntax highlighted code block
 ## Header 2
 ### Header 3
 
+The #MeToo movement and the #Timesup movement have both called attention to sexual assault and the gender gap through all areas of society. 
+
 - Bulleted
 - List
 
