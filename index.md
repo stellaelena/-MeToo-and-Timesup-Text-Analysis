@@ -1,15 +1,14 @@
-## Welcome to GitHub Pages
+## MeToo and Timesup hastags analysied 
 
-You can use the [editor on GitHub](https://github.com/stellaelena/-MeToo-and-Timesup-Text-Analysis/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Introduce what this entire article will be about here
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### MeToo Movement
 
-### Markdown
+Introduce the inportance of the MeToo movement and the key datas that are going on
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Timesup Movement
 
-```markdown
-Syntax highlighted code block
+Introduce the inportance of the Timesup movement, how it started and the key datas that are going on
 
 # Header 1
 ## Header 2
